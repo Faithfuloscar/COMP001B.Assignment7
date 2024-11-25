@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Geist+Mono&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+body {
+    background-color: #189AB4;
+}
+main{
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    -webkit-text-stroke: .25px rgb(0,0, 0);
+}
+.main-header{
+    text-align: center;
+    color: #75E6DA;
+    -webkit-text-stroke: .25px rgb(0,0, 0);
+
+}
+
+.questions{
+    text-align: center;
+    color: #D4F1F4;
+    -webkit-text-stroke: .25px rgb(0,0, 0);
+
+}
+
+p{
+    text-align: center;
+    color: #05445E;
+    -webkit-text-stroke: .25px rgb(0,0, 0);
+
+}
